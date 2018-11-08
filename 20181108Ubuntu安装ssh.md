@@ -15,7 +15,7 @@ securecrt正常输入帐号密码，登录反映鉴权失败
    ps -e | grep ssh
    ```
 
-   ![](img\QQ截图20181108151201.png)
+   ![](img/QQ截图20181108151201.png)
 
 3. 查看状态
 
@@ -23,7 +23,7 @@ securecrt正常输入帐号密码，登录反映鉴权失败
    /etc/init.d/ssh status
    ```
 
-   ![](img\QQ截图20181108151526.png)
+   ![](img/QQ截图20181108151526.png)
 
 4. 重新securecrt连接成功
 
